@@ -26,10 +26,6 @@ I am a data professional based in **Manchester, UK**, focused on turning complex
 
 ---
 
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TheLordBass]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLordBass&layout=compact&theme=radical)
-![Metrics](https://metrics.lecoq.io/TheLordBass?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FLondon)
 
 ---
 
