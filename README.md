@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome
 # 👋 Hi, I’m Ibomeno 
 ### Data Specialist | Analytics Engineer | SQL & Business Intelligence
 
