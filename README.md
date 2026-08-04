@@ -1,6 +1,6 @@
 ## Welcome
 # 👋 Hi, I’m Ibomeno 
-### Data Specialist | Analytics Engineer | SQL & Business Intelligence
+### Data Analyst | SQL & Business Intelligence
 
 I am a data professional based in **Manchester, UK**, focused on turning complex datasets into actionable business insights. I specialise in building robust data pipelines, designing interactive dashboards, and performing deep-dive statistical analysis.
 
