@@ -8,7 +8,7 @@ I am a data professional based in **Manchester, UK**, focused on turning complex
 
 ## 🛠️ Tech Stack & Skills
 
-### **Data Engineering & Analysis**
+### **Data Analysis**
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=flat-square&logo=postgresql)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoftexcel)
 ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python)
