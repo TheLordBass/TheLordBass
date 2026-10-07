@@ -60,11 +60,11 @@ Over 12,000 player seasons, measuring the rise of "small ball" and testing wheth
 ## Also here
 
 - **[DataBites](https://github.com/TheLordBass/databites)**: learn pandas, matplotlib and seaborn in short lessons on your phone. Real Python runs in the browser, and it works offline after the first load.
-- **[thelordbass.github.io](https://thelordbass.github.io)**: my portfolio site.
+- **[ibomenobasiekanem.com](https://ibomenobasiekanem.com)**: my portfolio site.
 - **Earlier work:** Power BI dashboards for [Maven Market](https://github.com/TheLordBass/Maven-market-PowerBI) and [AdventureWorks](https://github.com/TheLordBass/AdventureWorks-Power-BI-), and SQL practice from the [8 Week SQL Challenge](https://github.com/TheLordBass/8_SQL_Challenge) and [Analyst Builder](https://github.com/TheLordBass/Analyst-Builder-SQL-question-Solutions).
 
 ---
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/ibomeno-basiekanem/) · [Portfolio](https://thelordbass.github.io) · [Tableau Public](https://public.tableau.com/app/profile/ibomeno.basiekanem/vizzes) · ibomenobasiekanem@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ibomeno-basiekanem/) · [Portfolio](https://ibomenobasiekanem.com) · [Tableau Public](https://public.tableau.com/app/profile/ibomeno.basiekanem/vizzes) · ibomenobasiekanem@gmail.com
