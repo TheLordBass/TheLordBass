@@ -52,7 +52,6 @@ Over 12,000 player seasons, measuring the rise of "small ball" and testing wheth
 | **SQL** (SQL Server) | Window functions and CTEs in the NBA analysis, market-share queries in the EV project, business-rule logic in the Uber analysis |
 | **Power BI** | Star-schema models, DAX measures and Power Query cleaning in the airline, mobile game and EV dashboards |
 | **Excel** | The Premier League dashboard: Power Query, dynamic arrays, `XLOOKUP` and form controls |
-| **Tableau** | Dashboards on [Tableau Public](https://public.tableau.com/app/profile/ibomeno.basiekanem/vizzes) |
 | **Python** | pandas and matplotlib, plus [DataBites](https://github.com/TheLordBass/databites), a phone-friendly app for learning them in three-minute lessons |
 
 ---
@@ -67,4 +66,4 @@ Over 12,000 player seasons, measuring the rise of "small ball" and testing wheth
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/ibomeno-basiekanem/) · [Portfolio](https://ibomenobasiekanem.com) · [Tableau Public](https://public.tableau.com/app/profile/ibomeno.basiekanem/vizzes) · ibomenobasiekanem@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ibomeno-basiekanem/) · [Portfolio](https://ibomenobasiekanem.com) · ibomenobasiekanem@gmail.com
